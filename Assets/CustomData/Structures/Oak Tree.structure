@@ -1,0 +1,793 @@
+{
+  "name": "Oak Tree",
+  "data": [
+    [
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 6,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 6,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 6,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 6,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 6,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 6,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 7,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ],
+      [
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        },
+        {
+          "BlockID": 0,
+          "LightLevel": 0
+        }
+      ]
+    ]
+  ],
+  "pivot": {
+    "x": 2,
+    "y": -1,
+    "z": 2,
+    "magnitude": 3.0,
+    "sqrMagnitude": 9
+  },
+  "forceAir": false
+}

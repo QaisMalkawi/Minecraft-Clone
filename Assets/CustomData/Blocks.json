@@ -1,0 +1,788 @@
+[
+    {
+        "Faces": [
+            [
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.0,
+                        "y": 0.707106769,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.577350259,
+                        "y": 0.577350259,
+                        "z": 0.577350259,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.73205078,
+                    "sqrMagnitude": 3.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "z": 0.0,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.0,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.0,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.577350259,
+                        "y": 0.577350259,
+                        "z": 0.577350259,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.73205078,
+                    "sqrMagnitude": 3.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.0,
+                        "y": 0.707106769,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "z": 0.0,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.0,
+                        "y": 0.707106769,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                }
+            ],
+            [
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.0,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "z": 0.0,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.577350259,
+                        "y": 0.577350259,
+                        "z": 0.577350259,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.73205078,
+                    "sqrMagnitude": 3.0
+                }
+            ]
+        ],
+        "UVS": [
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                }
+            ],
+            [
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                }
+            ]
+        ],
+        "triangleTable": [
+            [ 0, 1, 2, 0, 2, 3 ],
+            [ 0, 1, 2, 0, 2, 3 ],
+            [ 0, 1, 2, 0, 2, 3 ],
+            [ 0, 1, 2, 0, 2, 3 ],
+            [ 0, 1, 2, 0, 2, 3 ],
+            [ 0, 1, 2, 0, 2, 3 ]
+        ]
+    },
+    {
+        "Faces": [
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "normalized": {
+                        "x": 0.0,
+                        "y": 0.707106769,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "normalized": {
+                        "x": 0.577350259,
+                        "y": 0.577350259,
+                        "z": 0.577350259,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.73205078,
+                    "sqrMagnitude": 3.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "z": 0.0,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.0,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "normalized": {
+                        "x": 0.0,
+                        "y": 0.707106769,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "normalized": {
+                        "x": 0.577350259,
+                        "y": 0.577350259,
+                        "z": 0.577350259,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.73205078,
+                    "sqrMagnitude": 3.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "z": 0.0,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.0,
+                        "z": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ]
+        ],
+        "UVS": [
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ],
+            [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "magnitude": 0.0,
+                    "sqrMagnitude": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "normalized": {
+                        "x": 0.707106769,
+                        "y": 0.707106769,
+                        "magnitude": 1.0,
+                        "sqrMagnitude": 0.99999994
+                    },
+                    "magnitude": 1.41421354,
+                    "sqrMagnitude": 2.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                }
+            ]
+        ],
+        "triangleTable": [
+            [ 0, 1, 2, 0, 2, 3 ],
+            [ 0, 1, 2, 0, 2, 3 ],
+            [ 0, 2, 1, 0, 3, 2 ],
+            [ 0, 2, 1, 0, 3, 2 ]
+        ]
+    }
+]

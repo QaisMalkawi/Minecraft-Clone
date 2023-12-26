@@ -1,0 +1,21 @@
+{
+  "name": "z_ForThumbnails",
+  "data": [
+    [
+      [
+        {
+          "BlockID": 3,
+          "LightLevel": 0
+        }
+      ]
+    ]
+  ],
+  "pivot": {
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0
+  },
+  "forceAir": false
+}
