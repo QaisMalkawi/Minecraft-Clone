@@ -11,3 +11,4 @@
 
 ## Notes
 -You can sent any pull requests cuz working on this project is taking so much of my time and I would love some help Improving this clone.
+-If you find any bugs/errors/Issues or something that doesn't make any sense, you can send Issue.
