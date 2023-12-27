@@ -1,3 +1,4 @@
+### made with Unity
 # Minecraft Clone
 ```
 -This is my first attempt of creating a game similar to Minecraft,
@@ -14,7 +15,7 @@
 -Character movement is so broken and barely working due to colission detection being not "finished".
 ```
 
-## Notes
+### Notes
 ```
 -You can sent any pull requests cuz working on this project is taking so much of my time and I would love some help Improving this clone.
 # 
